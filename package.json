@@ -1,0 +1,41 @@
+{
+  "name": "layuimini",
+  "version": "1.0.0",
+  "description": "layuimini后台模板\r ===============\r # 项目介绍\r 最简洁、清爽、易用的layui后台框架模板。",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zhongshaofa/layuimini.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zhongshaofa/layuimini/issues"
+  },
+  "homepage": "https://github.com/zhongshaofa/layuimini#readme",
+  "devDependencies": {
+    "@babel/core": "^7.18.5",
+    "@babel/preset-env": "^7.18.2",
+    "gulp": "^4.0.2",
+    "gulp-autoprefixer": "^8.0.0",
+    "gulp-babel": "^8.0.0",
+    "gulp-clean": "^0.4.0",
+    "gulp-clean-css": "^4.3.0",
+    "gulp-concat": "^2.6.1",
+    "gulp-csso": "^4.0.1",
+    "gulp-htmlmin": "^5.0.1",
+    "gulp-imagemin": "7.1.0",
+    "gulp-server-livereload": "^1.9.2",
+    "gulp-sourcemaps": "^3.0.0",
+    "gulp-uglify": "^3.0.2",
+    "gulp.spritesmith": "^6.13.0",
+    "merge-stream": "^2.0.0",
+    "vinyl-buffer": "^1.0.1"
+  }
+}
